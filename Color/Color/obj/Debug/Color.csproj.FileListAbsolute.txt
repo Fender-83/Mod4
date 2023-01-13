@@ -1,0 +1,8 @@
+C:\Repository\Mod4\Color\Color\bin\Debug\Color.exe.config
+C:\Repository\Mod4\Color\Color\bin\Debug\Color.exe
+C:\Repository\Mod4\Color\Color\bin\Debug\Color.pdb
+C:\Repository\Mod4\Color\Color\obj\Debug\Color.csproj.AssemblyReference.cache
+C:\Repository\Mod4\Color\Color\obj\Debug\Color.csproj.SuggestedBindingRedirects.cache
+C:\Repository\Mod4\Color\Color\obj\Debug\Color.csproj.CoreCompileInputs.cache
+C:\Repository\Mod4\Color\Color\obj\Debug\Color.exe
+C:\Repository\Mod4\Color\Color\obj\Debug\Color.pdb
