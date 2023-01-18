@@ -1,0 +1,8 @@
+C:\Repository\Mod4\Color\Kortezhy\bin\Debug\Kortezhy.exe.config
+C:\Repository\Mod4\Color\Kortezhy\bin\Debug\Kortezhy.exe
+C:\Repository\Mod4\Color\Kortezhy\bin\Debug\Kortezhy.pdb
+C:\Repository\Mod4\Color\Kortezhy\obj\Debug\Kortezhy.csproj.AssemblyReference.cache
+C:\Repository\Mod4\Color\Kortezhy\obj\Debug\Kortezhy.csproj.SuggestedBindingRedirects.cache
+C:\Repository\Mod4\Color\Kortezhy\obj\Debug\Kortezhy.csproj.CoreCompileInputs.cache
+C:\Repository\Mod4\Color\Kortezhy\obj\Debug\Kortezhy.exe
+C:\Repository\Mod4\Color\Kortezhy\obj\Debug\Kortezhy.pdb

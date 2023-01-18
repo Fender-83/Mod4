@@ -1,41 +1,37 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Color
+namespace FirstApp
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Напишите свой любимый цвет на английском с маленькой буквы");
+            Console.WriteLine("Name?");
+            var name = Console.ReadLine();
+            Console.WriteLine(" Write lastname:");
+            var lastName = Console.ReadLine();
+            Console.WriteLine("Ваше имя по буквам");
 
-            var color = Console.ReadLine();
-
-            if (color == "red")
+            for (int i = 0; i < name.Length; i++)
             {
-                Console.BackgroundColor = ConsoleColor.Red;
-                Console.ForegroundColor = ConsoleColor.Black;
-
-                Console.WriteLine("Your color is red!");
+                Console.Write(name[i] + " ");
             }
+            Console.WriteLine("последняя буква");
+            int lastCharOfName = name.Length -1;
+            int firstIndex = 0;
+            Console.WriteLine("Первая буква имени" + name[firstIndex] );
+            int lastCharOfLasetName = lastName.Length - 1;
+            Console.WriteLine(name[lastCharOfName]);
 
-            else if (color == "green")
+            foreach (var item in lastName)
             {
-                Console.BackgroundColor = ConsoleColor.Green;
-                Console.ForegroundColor = ConsoleColor.Black;
-
-                Console.WriteLine("Your color is green!");
+                Console.Write(item + " ");
             }
-            else
-            {
-                Console.BackgroundColor = ConsoleColor.Cyan;
-                Console.ForegroundColor = ConsoleColor.Black;
+            int LastIndex = lastName.Length - 1;
+            Console.WriteLine();
+            Console.WriteLine(lastName[LastIndex]);
+           
 
-                Console.WriteLine("Your color is cyan!");
-            }
-        }
+        } 
     }
 }

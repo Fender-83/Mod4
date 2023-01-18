@@ -1,0 +1,3 @@
+C:\Repository\Mod4\Color\Massive2\obj\Debug\Massive2.csproj.AssemblyReference.cache
+C:\Repository\Mod4\Color\Massive2\obj\Debug\Massive2.csproj.SuggestedBindingRedirects.cache
+C:\Repository\Mod4\Color\Massive2\obj\Debug\Massive2.csproj.CoreCompileInputs.cache

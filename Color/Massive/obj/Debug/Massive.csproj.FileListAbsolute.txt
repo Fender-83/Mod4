@@ -1,0 +1,8 @@
+C:\Repository\Mod4\Color\Massive\bin\Debug\Massive.exe.config
+C:\Repository\Mod4\Color\Massive\bin\Debug\Massive.exe
+C:\Repository\Mod4\Color\Massive\bin\Debug\Massive.pdb
+C:\Repository\Mod4\Color\Massive\obj\Debug\Massive.csproj.AssemblyReference.cache
+C:\Repository\Mod4\Color\Massive\obj\Debug\Massive.csproj.SuggestedBindingRedirects.cache
+C:\Repository\Mod4\Color\Massive\obj\Debug\Massive.csproj.CoreCompileInputs.cache
+C:\Repository\Mod4\Color\Massive\obj\Debug\Massive.exe
+C:\Repository\Mod4\Color\Massive\obj\Debug\Massive.pdb

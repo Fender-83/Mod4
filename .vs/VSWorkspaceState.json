@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Color",
+    "\\Color\\Color"
   ],
-  "SelectedNode": "\\C:\\Repository\\Mod4",
+  "SelectedNode": "\\Color\\Color\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
