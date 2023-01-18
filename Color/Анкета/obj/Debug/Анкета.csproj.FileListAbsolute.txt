@@ -1,0 +1,8 @@
+C:\Repository\Mod4\Color\Анкета\bin\Debug\Анкета.exe.config
+C:\Repository\Mod4\Color\Анкета\bin\Debug\Анкета.exe
+C:\Repository\Mod4\Color\Анкета\bin\Debug\Анкета.pdb
+C:\Repository\Mod4\Color\Анкета\obj\Debug\Анкета.csproj.AssemblyReference.cache
+C:\Repository\Mod4\Color\Анкета\obj\Debug\Анкета.csproj.SuggestedBindingRedirects.cache
+C:\Repository\Mod4\Color\Анкета\obj\Debug\Анкета.csproj.CoreCompileInputs.cache
+C:\Repository\Mod4\Color\Анкета\obj\Debug\Анкета.exe
+C:\Repository\Mod4\Color\Анкета\obj\Debug\Анкета.pdb
